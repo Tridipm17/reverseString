@@ -1,0 +1,15 @@
+{
+  "name": "stringreverser",
+  "version": "1.0.0",
+  "description": "It Can reverse String",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "String",
+    "Reverse"
+  ],
+  "author": "Tridip Mukheerjee",
+  "license": "ISC"
+}
